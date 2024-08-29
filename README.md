@@ -1,11 +1,10 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+ <h1 align="center">Hi 👋, I'm Ayush Raghuvanshi</h1>
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
+- 💬 Ask me anything about React js 
+- 📫 How to reach me: ayushrajdev2@gmail.com
+- 😄 My website: 
   
 ### Connect with me:
 <div id="badges">
@@ -35,4 +34,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [ayush](https://github.com/ayush19032002)
